@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General Skills/10 - nice netcat....md",
+                "file": "Plantilla retos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - nice netcat..."
+              "title": "Plantilla retos"
             }
           }
         ]
@@ -186,16 +186,16 @@
   "active": "096ca2f634044f07",
   "lastOpenFiles": [
     "PicoCTF/01 - General Skills/09 - Glitch Cat.md",
-    "PicoCTF/01 - General Skills/10 - nice netcat....md",
-    "PicoCTF/01 - General Skills/01 - Let's Warm Up.md",
     "PicoCTF/01 - General Skills/08 - plumbing.md",
     "PicoCTF/01 - General Skills/07 - What's a net cat.md",
     "PicoCTF/01 - General Skills/06 - Obedient Cat.md",
     "PicoCTF/01 - General Skills/05 - First Grep.md",
-    "Plantilla retos.md",
     "PicoCTF/01 - General Skills/04 - Bases.md",
     "PicoCTF/01 - General Skills/03 - Warmed Up.md",
     "PicoCTF/01 - General Skills/02 - 2Warm.md",
+    "PicoCTF/01 - General Skills/01 - Let's Warm Up.md",
+    "PicoCTF/01 - General Skills/10 - nice netcat....md",
+    "Plantilla retos.md",
     "Pasted image 20260206214550.png",
     "Pasted image 20260206185406.png",
     "Solución.md",

@@ -26,7 +26,7 @@ letra = chr(decimal)
 print("Letra que corresponde a ese valor decimal:", letra)
 ```
 ## Solución 3 Conversión manual
-Para este método podemos buscar una conversión manual al pensar en como funcionan los valores hexadecimales. Primero que todo, se dividen en dos valores, al momento de obtener algún valor hexadecimal obtenemos una cadena como *0x70*, pero lo que nos va a interesar son los últimos dos dígitos, ya que la parte de ==0x== se usa solamente para indicar que es un valor hexadecimal.
+Para este método podemos buscar una conversión manual al pensar en como funcionan los valores hexadecimales. Primero que todo, se dividen en dos valores, al momento de obtener algún valor hexadecimal obtenemos una cadena como *0x70*, pero lo que nos va a interesar son los últimos dos dígitos, ya que la parte de **0x** se usa solamente para indicar que es un valor hexadecimal.
 Un hexadecimal se compone de dos números que representan un valor del 0 al 9 y del A al F, correspondiendo estos valores al número máximo de bits que puede tener. Siendo que un byte se divide en dos y se toma el valor en base a cuales están prendidos. Por ejemplo:
 
 | Número binario | Primeros 4 bits | Últimos 4 bits | Valor primeros | Valor últimos | Hexadecimal |

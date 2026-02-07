@@ -8,7 +8,7 @@
 ---
 # Solución
 ## Solución 1: conexión con nc en Linux
-nc (o netcat) es una forma de conectarte a un servidor a través de un puerto, su sintaxis es: ==nc *servidor* *puerto*== de forma que, el proceso para resolver este reto fue primero que nada comenzar a correr la instancia que se encuentra en el mismo reto, después, conectarse al servidor con el puerto. Esto me llevó a una mini ventana que contenía la flag.
+nc (o netcat) es una forma de conectarte a un servidor a través de un puerto, su sintaxis es: **nc *servidor* *puerto*** de forma que, el proceso para resolver este reto fue primero que nada comenzar a correr la instancia que se encuentra en el mismo reto, después, conectarse al servidor con el puerto. Esto me llevó a una mini ventana que contenía la flag.
 ```bash
 nc fickle-tempest.picoctf.net 58734
 ```
