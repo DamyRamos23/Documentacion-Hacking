@@ -1,13 +1,16 @@
 # Nombre del reto
-
----
-# Link del reto
+>
 
 ---
 # Descripción
+>
 
 ---
 # Solución
+
+---
+# Flag del reto
+>
 
 ---
 # Notas adicionales
