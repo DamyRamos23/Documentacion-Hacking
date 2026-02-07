@@ -32,11 +32,13 @@ Un hexadecimal se compone de dos números que representan un valor del 0 al 9 y 
 | Número binario | Primeros 4 bits | Últimos 4 bits | Valor primeros | Valor últimos | Hexadecimal |
 | -------------- | --------------- | -------------- | -------------- | ------------- | ----------- |
 | 01100011       | 0110            | 0011           | 6              | 3             | 0x63        |
+
 Entonces, para este reto, podemos hacer el proceso inverso de la siguiente manera:
 
 | Hexadecimal | Valor primeros | Valor últimos | Primeros 4 bits | Últimos 4 bits | Número binario |
 | ----------- | -------------- | ------------- | --------------- | -------------- | -------------- |
 | 0x70        | 7              | 0             | 0111            | 0000           | 01110000       |
+
 De esta forma, solamente necesitamos obtener el valor del número binario el cual es ***112*** entonces este valor solamente se busca en una tabla de conversión de [Números ASCII](https://commons.wikimedia.org/wiki/File:ASCII-Table-wide.svg) y nos resulta que es representado por la p.
 ## Solución 4. Conversión con tabla ASCII directa
 Recordando que las computadoras guardan los caracteres en números y no directos, podemos encontrar alguna tabla de [Valores ASCII](https://commons.wikimedia.org/wiki/File:ASCII-Table-wide.svg).
