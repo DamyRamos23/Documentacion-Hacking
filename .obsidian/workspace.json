@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 - General Skills/01 - Let's Warm Up.md",
+                "file": "PicoCTF/01 - General Skills/20 - First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Let's Warm Up"
+              "title": "20 - First Find"
             }
           }
         ]
@@ -183,29 +183,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "096ca2f634044f07",
+  "active": "9a9154a1b2cb07bb",
   "lastOpenFiles": [
-    "PicoCTF/01 - General Skills/02 - 2Warm.md",
-    "Plantilla retos.md",
+    "PicoCTF/01 - General Skills/19 - Big Zip.md",
+    "PicoCTF/01 - General Skills/20 - First Find.md",
+    "PicoCTF/01 - General Skills/18 - repetitions.md",
+    "PicoCTF/01 - General Skills/17 - Magikarp Ground Mission.md",
+    "PicoCTF/01 - General Skills/16 - Tab, Tab, Attack.md",
+    "PicoCTF/01 - General Skills/15 - useless.md",
+    "PicoCTF/01 - General Skills/14 - Static ain't always noise.md",
+    "PicoCTF/01 - General Skills/12 - Strings it.md",
+    "PicoCTF/01 - General Skills/13 - Wave a flag.md",
+    "PicoCTF/01 - General Skills/11 - Based.md",
+    "PicoCTF/01 - General Skills/10 - nice netcat....md",
+    "PicoCTF/01 - General Skills/Untitled.md",
     "PicoCTF/01 - General Skills/09 - Glitch Cat.md",
     "PicoCTF/01 - General Skills/08 - plumbing.md",
+    "PicoCTF/01 - General Skills/01 - Let's Warm Up.md",
+    "PicoCTF/01 - General Skills/03 - Warmed Up.md",
+    "PicoCTF/01 - General Skills/02 - 2Warm.md",
+    "PicoCTF/01 - General Skills/04 - Bases.md",
     "PicoCTF/01 - General Skills/07 - What's a net cat.md",
     "PicoCTF/01 - General Skills/06 - Obedient Cat.md",
     "PicoCTF/01 - General Skills/05 - First Grep.md",
-    "PicoCTF/01 - General Skills/04 - Bases.md",
-    "PicoCTF/01 - General Skills/03 - Warmed Up.md",
-    "PicoCTF/01 - General Skills/01 - Let's Warm Up.md",
-    "PicoCTF/01 - General Skills/10 - nice netcat....md",
+    "Plantilla retos.md",
     "Pasted image 20260206214550.png",
     "Pasted image 20260206185406.png",
     "Solución.md",
     "[Solución.md",
     "README.md",
     "PicoCTF/01 - General Skills/# Nombre del reto---# Link del reto---# Descripción---# Solución---# Notas adicionales---# ReferenciasLet.md",
-    "PicoCTF/01 - General Skills.md",
     "PicoCTF/01 - General Skills",
-    "PicoCTF",
-    "create a link.md",
-    "Welcome.md"
+    "PicoCTF"
   ]
 }
