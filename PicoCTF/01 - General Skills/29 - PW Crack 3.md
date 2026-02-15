@@ -71,6 +71,7 @@ Ya que tenemos un archivo con terminación .hash, sabemos que se aplicó cierta 
 bvi level3.hash.bin
 ```
 Nos resulta en un archivo "vacío" con un encabezado de: **16 02 6D 60 FF 9B 54 41 0B 34 35 B4 03 AF D2 26**, esto nos puede sonar de un bonito hexadecimal, pero si se intenta decodificar no podremos obtener nada interesante. Por lo que solo nos queda buscar un hash que tenga esa misma salida para encontrar la contraseña, recordemos que los hash no pueden tener espacios entre los caracteres hexadecimales, por lo que nos queda: **16026D60FF9B54410B3435B403AFD226**, con esto, podemos dar un vistazo rápido al script y ver que se aplica una función hash MD5 (`m = hashlib.md5()`) por lo que podemos entrar a cyberchef con cada contraseña posible para saber cual es la correcta.
+
 - [8799](https://toolbox.itsec.tamu.edu/#recipe=MD5()&input=ODc5OQ) lo que nos da: e6051b3bfe716cc4a38c2f39ec199873
 - [d3ab](https://toolbox.itsec.tamu.edu/#recipe=MD5()&input=ZDNhYg) lo que nos da: 2b268941ebe6a029484266060fa70243
 - [1ea2](https://toolbox.itsec.tamu.edu/#recipe=MD5()&input=MWVhMg) lo que nos da: 8f60458cc64243ba3b88f8bfcfa269eb
@@ -78,6 +79,7 @@ Nos resulta en un archivo "vacío" con un encabezado de: **16 02 6D 60 FF 9B 54 
 - [2295](https://toolbox.itsec.tamu.edu/#recipe=MD5()&input=MjI5NQ) lo que nos da: **16026d60ff9b54410b3435b403afd226**
 - [a9de](https://toolbox.itsec.tamu.edu/#recipe=MD5()&input=YTlkZQ) lo que nos da: b9cce7a7a688e9dbca3dd7f0469de54c
 - [6f3d](https://toolbox.itsec.tamu.edu/#recipe=MD5()&input=NmYzZA) lo que nos da: cbdc1d56d54a78a5ba0543528f85af6a
+
 Aquí encontramos nuestro mismo hash, por lo que ahora sabemos la contraseña.
 
 ---

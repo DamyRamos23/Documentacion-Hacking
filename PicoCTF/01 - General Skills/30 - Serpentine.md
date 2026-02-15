@@ -9,6 +9,7 @@
 ---
 # Solución
 Para este reto, nos proporcionan un script de python, al ejecutarlo, nos pide escoger entre 3 opciones, una de ellas es imprimir la bandera, pero si la seleccionamos, dirá que no está bien llamada la función de imprimir la bandera, de modo que nos toca analizar el código.
+
 Al entrar con nano al archivo de python, encontramos lo siguiente:
 ```python
 import random

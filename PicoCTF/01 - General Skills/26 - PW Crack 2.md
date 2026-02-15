@@ -18,7 +18,9 @@ python3 level2.py
 Please enter correct password for flag:
 ```
 Como no sabemos la contraseña, debemos de buscar dentro de ambos archivos.
+
 El archivo level2.flag.txt.enc es un archivo binario, por lo que no lo abriremos de inmediato a menos que sea necesario.
+
 El archivo level2.py es un script de python que contiene lo siguiente:
 ```python
 ### THIS FUNCTION WILL NOT HELP YOU FIND THE FLAG --LT ########################
