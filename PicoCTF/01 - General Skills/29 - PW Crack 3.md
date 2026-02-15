@@ -86,7 +86,8 @@ Aquí encontramos nuestro mismo hash, por lo que ahora sabemos la contraseña.
 
 ---
 # Notas adicionales
+Antes de adivinar el tipo de hash, es mejor buscar en el código del encriptador, porque cuando buscaba el tipo estaba viendo la longitud, pero era mejor ver que función hash se estaba usando.
 
 ---
 # Referencias
-
+Se debió de buscar información sobre el [hash](https://chatgpt.com/share/6991f156-2870-800b-96a7-8e0a20419fa0).
