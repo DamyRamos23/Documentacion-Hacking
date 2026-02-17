@@ -4,6 +4,7 @@
 ---
 # Descripción
 >Fix the syntax error in the Python script to print the flag.
+>
 >[Download Python script](https://artifacts.picoctf.net/c/6/fixme2.py)
 
 ---
