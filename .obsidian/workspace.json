@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Web Exploitation/8 - Cookies.md",
+                "file": "PicoCTF/Web Exploitation/12 - More SQLi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Cookies"
+              "title": "12 - More SQLi"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "9a9154a1b2cb07bb",
   "lastOpenFiles": [
-    "PicoCTF/Web Exploitation/9 - Scavenger Hunt.md",
+    "PicoCTF/Web Exploitation/11 - JaWT Scratchpad.md",
     "PicoCTF/Web Exploitation/8 - Cookies.md",
+    "PicoCTF/Web Exploitation/10 - Irish-Name-Repo 1.md",
+    "PicoCTF/Web Exploitation/12 - More SQLi.md",
+    "PicoCTF/Web Exploitation/9 - Scavenger Hunt.md",
     "PicoCTF/Web Exploitation/7 - Get aHead.md",
     "PicoCTF/Web Exploitation/6 - picobrowser.md",
     "PicoCTF/Web Exploitation/5 - Client-side-again.md",
@@ -209,9 +212,6 @@
     "Plantilla retos.md",
     "PicoCTF/General Skills/35 - Commitment Issues.md",
     "PicoCTF/General Skills/34 - Collaborative Deployment.md",
-    "PicoCTF/General Skills/33 - Blame Game.md",
-    "PicoCTF/General Skills/2 - 2Warm.md",
-    "PicoCTF/General Skills/3 - Warmed Up.md",
     "Pasted image 20260206214550.png",
     "Pasted image 20260206185406.png",
     "PicoCTF/General Skills",
