@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Web Exploitation/12 - More SQLi.md",
+                "file": "PicoCTF/Web Exploitation/16 - Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 - More SQLi"
+              "title": "16 - Trickster"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -174,21 +174,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "9a9154a1b2cb07bb",
   "lastOpenFiles": [
+    "PicoCTF/Web Exploitation/15 - SOAP.md",
+    "PicoCTF/Web Exploitation/14 - Most Cookies.md",
+    "PicoCTF/Web Exploitation/13 - MatchTheRegex.md",
+    "PicoCTF/Web Exploitation/16 - Trickster.md",
+    "PicoCTF/Web Exploitation/12 - More SQLi.md",
     "PicoCTF/Web Exploitation/11 - JaWT Scratchpad.md",
     "PicoCTF/Web Exploitation/8 - Cookies.md",
     "PicoCTF/Web Exploitation/10 - Irish-Name-Repo 1.md",
-    "PicoCTF/Web Exploitation/12 - More SQLi.md",
     "PicoCTF/Web Exploitation/9 - Scavenger Hunt.md",
     "PicoCTF/Web Exploitation/7 - Get aHead.md",
     "PicoCTF/Web Exploitation/6 - picobrowser.md",
@@ -208,10 +212,6 @@
     "PicoCTF/General Skills/36 - Time Machine.md",
     "PicoCTF/General Skills/37 - ASCII Numbers.md",
     "PicoCTF/General Skills/31 - Binary Search.md",
-    "PicoCTF/General Skills/32 - binhexa.md",
-    "Plantilla retos.md",
-    "PicoCTF/General Skills/35 - Commitment Issues.md",
-    "PicoCTF/General Skills/34 - Collaborative Deployment.md",
     "Pasted image 20260206214550.png",
     "Pasted image 20260206185406.png",
     "PicoCTF/General Skills",
