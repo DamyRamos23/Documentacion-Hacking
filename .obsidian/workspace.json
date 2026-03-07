@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Web Exploitation/16 - Trickster.md",
+                "file": "PicoCTF/Web Exploitation/25 - Secrets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 - Trickster"
+              "title": "25 - Secrets"
             }
           }
         ]
@@ -183,12 +183,23 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9a9154a1b2cb07bb",
+  "active": "096ca2f634044f07",
   "lastOpenFiles": [
+    "PicoCTF/Web Exploitation/22 - WebDecode.md",
+    "PicoCTF/Web Exploitation/24 - Roboto Sans.md",
+    "PicoCTF/Web Exploitation/26 - SQLiLite.md",
+    "PicoCTF/Web Exploitation/25 - Secrets.md",
+    "PicoCTF/Web Exploitation/23 - Power Cookie.md",
+    "PicoCTF/Web Exploitation/21 - Unminify.md",
+    "PicoCTF/Web Exploitation/20 - Local Authority.md",
+    "PicoCTF/Web Exploitation/19 - IntroToBurp.md",
+    "Plantilla retos.md",
+    "PicoCTF/Web Exploitation/18 - Inspect HTML.md",
+    "PicoCTF/Web Exploitation/17 - Includes.md",
+    "PicoCTF/Web Exploitation/16 - Trickster.md",
     "PicoCTF/Web Exploitation/15 - SOAP.md",
     "PicoCTF/Web Exploitation/14 - Most Cookies.md",
     "PicoCTF/Web Exploitation/13 - MatchTheRegex.md",
-    "PicoCTF/Web Exploitation/16 - Trickster.md",
     "PicoCTF/Web Exploitation/12 - More SQLi.md",
     "PicoCTF/Web Exploitation/11 - JaWT Scratchpad.md",
     "PicoCTF/Web Exploitation/8 - Cookies.md",
@@ -200,18 +211,7 @@
     "PicoCTF/General Skills/9 - Glitch Cat.md",
     "PicoCTF/General Skills/8 - plumbing.md",
     "PicoCTF/General Skills/7 - What's a net cat.md",
-    "PicoCTF/General Skills/6 - Obedient Cat.md",
-    "PicoCTF/Web Exploitation/4 - where are the robots.md",
-    "PicoCTF/Web Exploitation/3 - logon.md",
-    "PicoCTF/Web Exploitation/1 - dont-use-client-side.md",
-    "PicoCTF/Web Exploitation/2 - Insp3ct0r.md",
-    "PicoCTF/General Skills/40 - Special.md",
     "PicoCTF/Web Exploitation",
-    "PicoCTF/General Skills/39 - Permissions.md",
-    "PicoCTF/General Skills/38 - Chrono.md",
-    "PicoCTF/General Skills/36 - Time Machine.md",
-    "PicoCTF/General Skills/37 - ASCII Numbers.md",
-    "PicoCTF/General Skills/31 - Binary Search.md",
     "Pasted image 20260206214550.png",
     "Pasted image 20260206185406.png",
     "PicoCTF/General Skills",
