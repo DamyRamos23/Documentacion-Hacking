@@ -11,14 +11,26 @@
             "id": "1601110c07eef472",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Forensics/11 - WebNet0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "11 - WebNet0"
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4c9834e3ed91168c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59223440eb7aba44",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -185,38 +197,43 @@
   },
   "active": "9a9154a1b2cb07bb",
   "lastOpenFiles": [
-    "PicoCTF/Forensics/15 - MacroHard WeakEdge.md",
-    "PicoCTF/Forensics/13 - Matryoshka Doll.md",
-    "PicoCTF/Forensics/14 - Tunn3l _V1s10n.md",
-    "PicoCTF/Forensics/11 - WebNet0.md",
-    "PicoCTF/Forensics/12 - WebNet1.md",
-    "Plantilla retos.md",
-    "PicoCTF/Forensics/6 - c0rrupt.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/17 - SQL Direct.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/11 - Bookmarklet.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/18 - SSTI2.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/18 - SSTI2.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/17 - SQL Direct.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/16 - Java Code Analysis!.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/16 - Java Code Analysis!.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/15 - Findme.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/15 - Findme.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/14 - SSTI1.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/14 - SSTI1.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/13 - Head-dump.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/13 - Head-dump.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/12 - Cookie Monster Secret Recipe.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/12 - Cookie Monster Secret Recipe.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web/11 - Bookmarklet.md",
+    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills/1 - Fantasy CTF.md",
+    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills/10 - Specialer.md",
+    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills/9 - SansAlpha.md",
+    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills/10 - Specialer.md",
+    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills/9 - SansAlpha.md",
+    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills/8 - Python Wrangling.md",
+    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills/8 - Python Wrangling.md",
+    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills/7 - Flag_Shop.md",
+    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills/7 - Flag_Shop.md",
+    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills/6 - Dont-You-Love-Banners.md",
+    "PicoCTF/Primer Examen Parcial - Parte 2 - Web",
+    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills",
+    "PicoCTF/11 - Primer Examen Parcial - Parte 2 - Web",
+    "PicoCTF/10 - Primer Examen Parcial - Parte 1 - General Skills",
+    "PicoCTF/picoCTF_2026",
+    "PicoCTF/Nueva carpeta",
     "Sin título.base",
-    "PicoCTF/Forensics/10 - shark on wire 2.md",
-    "PicoCTF/Forensics/9 - WhitePages.md",
-    "PicoCTF/Forensics/8 - m00nwalk.md",
-    "PicoCTF/Forensics/7 - like1000.md",
-    "PicoCTF/Forensics/5 - What Lies Within.md",
-    "PicoCTF/Forensics/2 - extensions.md",
-    "PicoCTF/Forensics/3 - shark on wire 1.md",
-    "PicoCTF/Forensics/4 - so meta.md",
-    "PicoCTF/Forensics/1 - Glory of the Garden.md",
-    "PicoCTF/Web Exploitation/25 - Secrets.md",
     "PicoCTF/Forensics",
-    "PicoCTF/Web Exploitation/22 - WebDecode.md",
-    "PicoCTF/Web Exploitation/24 - Roboto Sans.md",
-    "PicoCTF/Web Exploitation/26 - SQLiLite.md",
-    "PicoCTF/Web Exploitation/23 - Power Cookie.md",
-    "PicoCTF/Web Exploitation/21 - Unminify.md",
-    "PicoCTF/Web Exploitation/20 - Local Authority.md",
-    "PicoCTF/Web Exploitation/19 - IntroToBurp.md",
-    "PicoCTF/Web Exploitation/18 - Inspect HTML.md",
-    "PicoCTF/Web Exploitation/17 - Includes.md",
     "PicoCTF/Web Exploitation",
     "Pasted image 20260206214550.png",
     "Pasted image 20260206185406.png",
-    "PicoCTF/General Skills",
-    "PicoCTF"
+    "PicoCTF/General Skills"
   ]
 }
