@@ -11,7 +11,7 @@ Primero entramos a la página, después compramos banderas, pero una cantidad "2
 
 ---
 # Flag del reto
->picoCTF{m0n3y_bag5_44cFf530}
+>picoCTF{m0n3y_bag5_F2Eb382F}
 
 ---
 # Notas adicionales

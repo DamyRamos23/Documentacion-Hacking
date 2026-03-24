@@ -11,7 +11,7 @@ Solamente es primero descargar el código que se nos da, después el archivo de 
 
 ---
 # Flag del reto
->
+>picoCTF{4r3_y0u_4_ru$t4c30n_n0w?}
 
 ---
 # Notas adicionales

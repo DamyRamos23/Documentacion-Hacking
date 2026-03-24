@@ -11,7 +11,7 @@ Usar la webshell y conectarnos a la página indicada, después solo es ir indica
 
 ---
 # Flag del reto
->picoCTF{m1113n1um_3d1710n_2d78cdd9}
+>picoCTF{m1113n1um_3d1710n_dd015572}
 
 ---
 # Notas adicionales

@@ -11,7 +11,7 @@ Primero es entrar al link que se nos da, después con ayuda de los comodines esc
 
 ---
 # Flag del reto
->picoCTF{7h15_mu171v3r53_15_m4dn355_775ac12d}
+>picoCTF{7h15_mu171v3r53_15_m4dn355_b0d5e855}
 
 ---
 # Notas adicionales

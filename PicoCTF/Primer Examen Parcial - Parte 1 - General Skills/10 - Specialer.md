@@ -11,7 +11,7 @@ Primero entramos a la página que se nos da con sus credenciales, después usamo
 
 ---
 # Flag del reto
->picoCTF{y0u_d0n7_4ppr3c1473_wh47_w3r3_d01ng_h3r3_811ae7e9}
+>picoCTF{y0u_d0n7_4ppr3c1473_wh47_w3r3_d01ng_h3r3_49193632}
 
 ---
 # Notas adicionales
