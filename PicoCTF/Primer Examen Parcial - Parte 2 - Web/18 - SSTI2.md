@@ -13,7 +13,7 @@ y con ello obtenemos la flag
 
 ---
 # Flag del reto
->picoCTF{sst1_f1lt3r_byp4ss_afa6aa72}
+>picoCTF{sst1_f1lt3r_byp4ss_3cfcf706}
 
 ---
 # Notas adicionales

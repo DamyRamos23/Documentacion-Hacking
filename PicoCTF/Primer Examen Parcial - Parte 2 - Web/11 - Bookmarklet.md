@@ -12,7 +12,7 @@ Primero es entrar a la página, después revisamos su código, alli copiamos el 
 
 ---
 # Flag del reto
->picoCTF{p@g3_turn3r_e8b2d43b}
+>picoCTF{p@g3_turn3r_1d1ba7e0}
 
 ---
 # Notas adicionales

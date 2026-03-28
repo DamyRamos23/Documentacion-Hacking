@@ -11,7 +11,7 @@ Entrar al link dado, después al ver que utiliza jinja2, solamente es escribir "
 
 ---
 # Flag del reto
->picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_4675f3fa}
+>picoCTF{s4rv3r_s1d3_t3mp14t3_1nj3ct10n5_4r3_c001_f5438664}
 
 ---
 # Notas adicionales

@@ -11,7 +11,7 @@ Primero es entrar al link dado, luego loguearnos, inspeccionar la cookie y decod
 
 ---
 # Flag del reto
->picoCTF{c00k1e_m0nster_l0ves_c00kies_2C8040EF}
+>picoCTF{c00k1e_m0nster_l0ves_c00kies_C430AE20}
 
 ---
 # Notas adicionales

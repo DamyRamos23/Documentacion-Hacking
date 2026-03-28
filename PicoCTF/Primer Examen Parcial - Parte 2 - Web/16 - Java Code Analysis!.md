@@ -14,7 +14,7 @@ Primero es entrar a la página y conseguir allí el JWT que es para el usuario n
 
 ---
 # Flag del reto
->picoCTF{w34k_jwt_n0t_g00d_7745dc02}
+>picoCTF{w34k_jwt_n0t_g00d_602ce414}
 
 ---
 # Notas adicionales

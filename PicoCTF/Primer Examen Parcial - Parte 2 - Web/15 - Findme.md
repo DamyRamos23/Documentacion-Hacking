@@ -11,7 +11,7 @@ Primero entramos al link que se nos da, después abrimos burpsuite y tratamos de
 
 ---
 # Flag del reto
->picoCTF{proxies_all_the_way_3d9e3697}
+>picoCTF{proxies_all_the_way_df44c94c}
 
 ---
 # Notas adicionales
