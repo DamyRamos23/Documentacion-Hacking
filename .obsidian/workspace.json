@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensics/22 - CanYouSee.md",
+                "file": "PicoCTF/Cryptography/1 - rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 - CanYouSee"
+              "title": "1 - rsa-pop-quiz"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "9a9154a1b2cb07bb",
   "lastOpenFiles": [
+    "PicoCTF/Forensics/22 - CanYouSee.md",
+    "PicoCTF/Cryptography/1 - rsa-pop-quiz.md",
+    "PicoCTF/Cryptography",
     "PicoCTF/Forensics/28 - St3g0.md",
     "PicoCTF/Forensics/29 - Redaction Gone Wrong.md",
     "PicoCTF/Forensics/28 - hideme.md",
@@ -193,7 +196,6 @@
     "PicoCTF/Forensics/24 - Ph4nt0m 1ntrud3r.md",
     "PicoCTF/Forensics/25 - RED.md",
     "PicoCTF/Forensics/23 - Information.md",
-    "PicoCTF/Forensics/22 - CanYouSee.md",
     "PicoCTF/Primer Examen Parcial - Parte 2 - Web/18 - SSTI2.md",
     "PicoCTF/Primer Examen Parcial - Parte 2 - Web/17 - SQL Direct.md",
     "PicoCTF/Primer Examen Parcial - Parte 2 - Web/16 - Java Code Analysis!.md",
@@ -210,7 +212,6 @@
     "PicoCTF/Forensics/21 - Operation Oni.md",
     "Plantilla retos.md",
     "Plantilla retos 1 1.md",
-    "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills/10 - Specialer.md",
     "PicoCTF/Primer Examen Parcial - Parte 2 - Web",
     "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills",
     "Primer Examen Parcial - Parte 2 - Web",
@@ -220,7 +221,6 @@
     "PicoCTF/picoCTF_2026",
     "PicoCTF/Nueva carpeta",
     "Sin título.base",
-    "PicoCTF/Forensics",
     "Pasted image 20260206214550.png",
     "Pasted image 20260206185406.png"
   ]
