@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Cryptography/14 - Pixelated.md",
+                "file": "PicoCTF/Cryptography/18 - flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 - Pixelated"
+              "title": "18 - flags"
             }
           }
         ]
@@ -183,13 +183,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9a9154a1b2cb07bb",
+  "active": "59223440eb7aba44",
   "lastOpenFiles": [
-    "PicoCTF/Cryptography/18 - flags.md",
     "PicoCTF/Cryptography/17 - ReadMyCert.md",
     "PicoCTF/Cryptography/16 - HideToSee.md",
     "PicoCTF/Cryptography/15 - basic-mod1.md",
     "PicoCTF/Cryptography/14 - Pixelated.md",
+    "PicoCTF/Cryptography/18 - flags.md",
     "PicoCTF/Cryptography/1 - The numbers.md",
     "PicoCTF/Cryptography/8 - interencdec.md",
     "PicoCTF/Cryptography/7 - waves over lambda.md",

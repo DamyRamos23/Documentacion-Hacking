@@ -8,7 +8,7 @@
 
 ---
 # Solución
-Podemos usar el siguiente script:
+Podemos usar el siguiente script: 
 ```python
 import numpy as np
 from PIL import Image
