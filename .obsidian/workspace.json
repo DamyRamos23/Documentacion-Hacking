@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Cryptography/18 - flags.md",
+                "file": "Plantilla retos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 - flags"
+              "title": "Plantilla retos"
             }
           }
         ]
@@ -183,13 +183,24 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "59223440eb7aba44",
+  "active": "9a9154a1b2cb07bb",
   "lastOpenFiles": [
+    "PicoCTF/Cryptography/19 - EVEN RSA CAN BE BROKEN.md",
+    "PicoCTF/Cryptography/28 - credstuff.md",
+    "PicoCTF/Cryptography/27 - rail-fence.md",
+    "PicoCTF/Cryptography/26 - Morse-Code.md",
+    "PicoCTF/Cryptography/25 - substitution2.md",
+    "PicoCTF/Cryptography/24 - substitution1.md",
+    "PicoCTF/Cryptography/23 - substitution0.md",
+    "PicoCTF/Cryptography/22 - Viegnere.md",
+    "PicoCTF/Cryptography/21 - Crack the Power.md",
+    "PicoCTF/Cryptography/20 - hashcrack.md",
+    "Plantilla retos.md",
+    "PicoCTF/Cryptography/18 - flags.md",
     "PicoCTF/Cryptography/17 - ReadMyCert.md",
     "PicoCTF/Cryptography/16 - HideToSee.md",
     "PicoCTF/Cryptography/15 - basic-mod1.md",
     "PicoCTF/Cryptography/14 - Pixelated.md",
-    "PicoCTF/Cryptography/18 - flags.md",
     "PicoCTF/Cryptography/1 - The numbers.md",
     "PicoCTF/Cryptography/8 - interencdec.md",
     "PicoCTF/Cryptography/7 - waves over lambda.md",
@@ -200,18 +211,7 @@
     "PicoCTF/Web Exploitation/6 - picobrowser.md",
     "PicoCTF/Web Exploitation/5 - Client-side-again.md",
     "PicoCTF/Web Exploitation/8 - Cookies.md",
-    "PicoCTF/Web Exploitation/7 - Get aHead.md",
-    "PicoCTF/Web Exploitation/18 - Inspect HTML.md",
-    "PicoCTF/Web Exploitation/16 - Trickster.md",
-    "PicoCTF/Web Exploitation/17 - Includes.md",
-    "PicoCTF/Web Exploitation/15 - SOAP.md",
-    "PicoCTF/Web Exploitation/14 - Most Cookies.md",
-    "PicoCTF/Cryptography/3 - Caesar.md",
-    "PicoCTF/Cryptography/2 - 13.md",
     "the_numbers.png",
-    "PicoCTF/Cryptography/10 - Mini RSA.md",
-    "PicoCTF/Cryptography/13 - b00tl3gRSA2.md",
-    "PicoCTF/Cryptography/12 - b00tl3gRSA3.md",
     "PicoCTF/Cryptography",
     "PicoCTF/Primer Examen Parcial - Parte 2 - Web",
     "PicoCTF/Primer Examen Parcial - Parte 1 - General Skills",
