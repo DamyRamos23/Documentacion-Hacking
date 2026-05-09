@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cylab Security Academy (PicoCTF)/Reverse Engineering/10 - timer.md",
+                "file": "Cylab Security Academy (PicoCTF)/Reverse Engineering/13 - asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - timer"
+              "title": "13 - asm3"
             }
           }
         ]
@@ -183,12 +183,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "59223440eb7aba44",
+  "active": "9a9154a1b2cb07bb",
   "lastOpenFiles": [
-    "Plantilla retos 6.md",
-    "Cylab Security Academy (PicoCTF)/Reverse Engineering/10 - timer.md",
-    "Cylab Security Academy (PicoCTF)/Reverse Engineering/9 - Safe Opener 2.md",
+    "Cylab Security Academy (PicoCTF)/Reverse Engineering/12 - asm2.md",
+    "Cylab Security Academy (PicoCTF)/Reverse Engineering/11 - asm1.md",
+    "Cylab Security Academy (PicoCTF)/Reverse Engineering/13 - asm3.md",
+    "Plantilla retos.md",
     "Cylab Security Academy (PicoCTF)/Binary Exploitation/1 - Picker IV.md",
+    "Cylab Security Academy (PicoCTF)/Reverse Engineering/10 - timer.md",
+    "Plantilla retos 6.md",
+    "Cylab Security Academy (PicoCTF)/Reverse Engineering/9 - Safe Opener 2.md",
     "Cylab Security Academy (PicoCTF)/Reverse Engineering/8 - Picker III.md",
     "Cylab Security Academy (PicoCTF)/Binary Exploitation",
     "Cylab Security Academy (PicoCTF)/Reverse Engineering/7 - Picker II.md",
@@ -209,9 +213,6 @@
     "Cylab Security Academy (PicoCTF)/Cryptography/22 - Viegnere.md",
     "Cylab Security Academy (PicoCTF)/Cryptography/21 - Crack the Power.md",
     "Cylab Security Academy (PicoCTF)/Cryptography/20 - hashcrack.md",
-    "Cylab Security Academy (PicoCTF)/Cryptography/18 - flags.md",
-    "Cylab Security Academy (PicoCTF)/Cryptography/17 - ReadMyCert.md",
-    "Cylab Security Academy (PicoCTF)/Cryptography/16 - HideToSee.md",
     "the_numbers.png",
     "Cylab Security Academy (PicoCTF)/Cryptography",
     "Cylab Security Academy (PicoCTF)/Primer Examen Parcial - Parte 2 - Web",
